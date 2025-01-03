@@ -1,0 +1,82 @@
+[
+  {
+    "agent": "athome",
+    "url": "https://www.athome.co.jp/tochi/6974129063/?DOWN=1&BKLISTID=001LPC&sref=list_simple",
+    "title": "札幌市東区 北二十一条東１４丁目 （元町駅 ） 住宅用地",
+    "image": "https://www.athome.co.jp/image_files/path/nf3cxTiSjujGUEipeyt_FA==.jpeg?width=320&height=320&margin=true",
+    "price": 24800000,
+    "nearStation": [
+      {
+        "name": "元町",
+        "min": 7,
+        "passenger": 18724,
+        "geometry": { "lng": 141.371785, "lat": 43.09404 }
+      }
+    ],
+    "access": "札幌市東豊線 「元町」駅 徒歩7分",
+    "area": 165.2849,
+    "prefecture": "sapporo",
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 31700
+  },
+  {
+    "title": "神奈川県横浜市神奈川区神之木町",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1030z2bsz1030z2ncz171440159.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F030%2FN010000%2Fimg%2F159%2F71440159%2F71440159_0010.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "kanagawaMetro",
+    "area": 119.83,
+    "price": 62000000,
+    "access": "ＪＲ横浜線「大口」徒歩4分",
+    "nearStation": [
+      {
+        "name": "大口",
+        "min": 4,
+        "passenger": 37634,
+        "geometry": { "lng": 139.64633500000002, "lat": 35.492295 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 75592
+  },
+  {
+    "title": "埼玉県川越市大字笠幡",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1030z2bsz1030z2ncz171379064.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F030%2FN010000%2Fimg%2F064%2F71379064%2F71379064_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "saitama",
+    "area": 166.8,
+    "price": 16500000,
+    "access": "ＪＲ川越線「笠幡」徒歩5分",
+    "nearStation": [
+      {
+        "name": "笠幡",
+        "min": 5,
+        "passenger": 5912,
+        "geometry": { "lng": 139.40626, "lat": 35.907579999999996 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 51498
+  },
+  {
+    "title": "東京都品川区西品川１",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1030z2bsz1030z2ncz171435175.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F030%2FN010000%2Fimg%2F175%2F71435175%2F71435175_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "tokyoMetro",
+    "area": 117.73,
+    "price": 83900000,
+    "access": "ＪＲ京浜東北線「大井町」徒歩10分",
+    "nearStation": [
+      {
+        "name": "大井町",
+        "min": 10,
+        "passenger": 443295,
+        "geometry": { "lng": 139.734985, "lat": 35.606745000000004 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 90482
+  }
+]

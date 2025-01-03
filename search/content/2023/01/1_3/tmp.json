@@ -1,0 +1,82 @@
+[
+  {
+    "title": "愛知県名古屋市南区柵下町１",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1050z2bsz1030z2ncz170910144.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F050%2FN010000%2Fimg%2F144%2F70910144%2F70910144_0011.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "nagoya",
+    "area": 214.94,
+    "price": 47500000,
+    "access": "ＪＲ東海道本線「笠寺」徒歩6分",
+    "nearStation": [
+      {
+        "name": "笠寺",
+        "min": 6,
+        "passenger": 12555,
+        "geometry": { "lng": 136.92648000000003, "lat": 35.094854999999995 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 43300
+  },
+  {
+    "title": "宮城県仙台市若林区大和町３",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1020z2bsz1030z2ncz171441145.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F020%2FN010000%2Fimg%2F145%2F71441145%2F71441145_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "sendai",
+    "area": 413,
+    "price": 50000000,
+    "access": "仙台市地下鉄東西線「卸町」徒歩10分",
+    "nearStation": [
+      {
+        "name": "卸町",
+        "min": 10,
+        "passenger": 9450,
+        "geometry": { "lng": 140.92090817500002, "lat": 38.25155203 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 54300
+  },
+  {
+    "agent": "athome",
+    "url": "https://www.athome.co.jp/tochi/6978098377/?DOWN=1&BKLISTID=001LPC&sref=list_simple",
+    "title": "豊島区 西巣鴨１丁目 （大塚駅 ） 住宅用地",
+    "image": "https://www.athome.co.jp/image_files/path/hX-a-B95G2SsE0sJHvX2xQ==.jpeg?width=320&height=320&margin=true",
+    "price": 83800000,
+    "nearStation": [
+      {
+        "name": "大塚",
+        "min": 11,
+        "passenger": 117852,
+        "geometry": { "lng": 139.72794, "lat": 35.731785 }
+      }
+    ],
+    "access": "ＪＲ山手線 「大塚」駅 徒歩11分",
+    "area": 89.4927,
+    "prefecture": "tokyoMetro",
+    "info": { "buildingCoverageRatio": 70, "floorAreaRatio": 300 },
+    "rentPrice": 89172
+  },
+  {
+    "title": "宮城県仙台市宮城野区小鶴３-4-12",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1020z2bsz1030z2ncz171440315.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F020%2FN010000%2Fimg%2F315%2F71440315%2F71440315_0134.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "sendai",
+    "area": 149.08,
+    "price": 21500000,
+    "access": "ＪＲ東北本線「東仙台」徒歩11分",
+    "nearStation": [
+      {
+        "name": "東仙台",
+        "min": 11,
+        "passenger": 7256,
+        "geometry": { "lng": 140.920115, "lat": 38.276520000000005 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 48200
+  }
+]

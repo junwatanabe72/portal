@@ -1,0 +1,317 @@
+[
+  {
+    "agent": "athomeKodate",
+    "info": {
+      "buildingCoverageRatio": 50,
+      "floorAreaRatio": 80
+    },
+    "url": "https://www.athome.co.jp/kodate/6981002910/?DOWN=1&BKLISTID=001LPC&sref=list_simple",
+    "title": "【中古戸建】 藤沢市 鵠沼海岸７丁目 （鵠沼海岸駅 ） 2階建 6LDK",
+    "image": "https://www.athome.co.jp/image_files/path/wubBC2c48rdhB7ziDU4VAA==.jpeg?width=320&height=320&margin=true",
+    "price": 71800000,
+    "nearStation": [
+      {
+        "name": "鵠沼海岸",
+        "min": 9,
+        "passenger": 19859,
+        "geometry": {
+          "lng": 139.47122000000002,
+          "lat": 35.320750000000004
+        }
+      }
+    ],
+    "access": "小田急江ノ島線 「鵠沼海岸」駅 徒歩9分",
+    "area": 166,
+    "rentPrice": 68944,
+    "demolition": {
+      "type": "鉄骨造",
+      "buildingArea": 126.51
+    },
+    "request": 0
+  },
+  {
+    "agent": "athomeKodate",
+    "info": {
+      "buildingCoverageRatio": 60,
+      "floorAreaRatio": 150
+    },
+    "url": "https://www.athome.co.jp/kodate/6980742576/?DOWN=1&BKLISTID=001LPC&sref=list_simple",
+    "title": "【中古戸建】 横浜市戸塚区 吉田町 （戸塚駅 ） 2階建 3LDK",
+    "image": "https://www.athome.co.jp/image_files/path/_8Lq-ieTDDsPgiQigPIJtA==.jpeg?width=320&height=320&margin=true",
+    "price": 34990000,
+    "nearStation": [
+      {
+        "name": "戸塚",
+        "min": 17,
+        "passenger": 314048,
+        "geometry": {
+          "lng": 139.53406,
+          "lat": 35.40123
+        }
+      }
+    ],
+    "access": "ＪＲ東海道本線 「戸塚」駅 徒歩17分",
+    "area": 108.96,
+    "rentPrice": 73822,
+    "demolition": {
+      "type": "木造",
+      "buildingArea": 88.31
+    },
+    "request": 0
+  },
+  {
+    "title": "【中古戸建】 東松山市美土里町 中古戸建 土地49.4坪 建物32.5坪",
+    "agent": "homesKodate",
+    "area": 163.31107,
+    "price": 23800000,
+    "info": {
+      "buildingCoverageRatio": 50,
+      "floorAreaRatio": 80
+    },
+    "prefecture": "saitama",
+    "image": "https://image1.homes.jp/smallimg/image.php?file=http%3A%2F%2Fimg.homes.jp%2F9143%2Fsale%2F61%2F2%2F2%2Fixrw.jpg&width=208&height=138",
+    "nearStation": [
+      {
+        "name": "東松山",
+        "min": 17,
+        "passenger": 28778,
+        "geometry": {
+          "lng": 139.401805,
+          "lat": 36.034090000000006
+        }
+      }
+    ],
+    "url": "https://www.homes.co.jp/kodate/b-91430000061/",
+    "access": "東武東上線 東松山駅 徒歩17分",
+    "rentPrice": 54904,
+    "demolition": {
+      "type": "木造/2階建",
+      "buildingArea": 107.64
+    },
+    "request": 0
+  },
+  {
+    "title": "大阪府寝屋川市寿町",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1060z2bsz1030z2ncz173999231.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F060%2FN010000%2Fimg%2F231%2F73999231%2F73999231_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "osaka",
+    "area": 134.3,
+    "price": 34800000,
+    "access": "京阪本線「香里園」徒歩13分",
+    "nearStation": [
+      {
+        "name": "香里園",
+        "min": 13,
+        "passenger": 49740,
+        "geometry": {
+          "lng": 135.63094,
+          "lat": 34.78456
+        }
+      }
+    ],
+    "info": {
+      "buildingCoverageRatio": 60,
+      "floorAreaRatio": 200
+    },
+    "rentPrice": 49900,
+    "request": 0
+  },
+  {
+    "title": "東京都町田市小川２-１９－３５",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1030z2bsz1030z2ncz173999227.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F030%2FN010000%2Fimg%2F227%2F73999227%2F73999227_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "tokyo",
+    "area": 311.22,
+    "price": 54800000,
+    "access": "ＪＲ横浜線「成瀬」徒歩11分",
+    "nearStation": [
+      {
+        "name": "成瀬",
+        "min": 11,
+        "passenger": 38366,
+        "geometry": {
+          "lng": 139.47263,
+          "lat": 35.535579999999996
+        }
+      }
+    ],
+    "info": {
+      "buildingCoverageRatio": 50,
+      "floorAreaRatio": 100
+    },
+    "rentPrice": 69426,
+    "request": 0
+  },
+  {
+    "title": "【中古戸建】 狭山市鵜ノ木　新築一戸建て　全2棟",
+    "agent": "homesKodate",
+    "area": 144.17101,
+    "price": 36800000,
+    "info": {
+      "buildingCoverageRatio": 60,
+      "floorAreaRatio": 200
+    },
+    "prefecture": "saitama",
+    "image": "https://image2.homes.jp/smallimg/image.php?file=http%3A%2F%2Fimg.homes.jp%2F144166%2Fsale%2F6908%2F2%2F1%2Fvd6k.jpg&width=208&height=138",
+    "nearStation": [
+      {
+        "name": "稲荷山公園",
+        "min": 11,
+        "passenger": 10053,
+        "geometry": {
+          "lng": 139.40027,
+          "lat": 35.844395
+        }
+      }
+    ],
+    "url": "https://www.homes.co.jp/kodate/b-1441660006908/",
+    "access": "西武池袋線 稲荷山公園駅 徒歩11分",
+    "rentPrice": 54969,
+    "demolition": {
+      "type": "木造/2階建",
+      "buildingArea": 101.01
+    },
+    "request": 0
+  },
+  {
+    "title": "東京都新宿区新宿６",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1030z2bsz1030z2ncz173493871.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F030%2FN010000%2Fimg%2F871%2F73493871%2F73493871_0056.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "tokyoMetro",
+    "area": 140.01,
+    "price": 94800000,
+    "access": "都営大江戸線「若松河田」徒歩10分",
+    "nearStation": [
+      {
+        "name": "若松河田",
+        "min": 10,
+        "passenger": 32326,
+        "geometry": {
+          "lng": 139.718185,
+          "lat": 35.699164999999994
+        }
+      }
+    ],
+    "info": {
+      "buildingCoverageRatio": 60,
+      "floorAreaRatio": 160
+    },
+    "rentPrice": 95452,
+    "request": 0
+  },
+  {
+    "title": "神奈川県横須賀市根岸町４",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1030z2bsz1030z2ncz173998760.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F030%2FN010000%2Fimg%2F760%2F73998760%2F73998760_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "kanagawa",
+    "area": 173.14,
+    "price": 41600000,
+    "access": "京急久里浜線「北久里浜」徒歩13分",
+    "nearStation": [
+      {
+        "name": "北久里浜",
+        "min": 13,
+        "passenger": 25627,
+        "geometry": {
+          "lng": 139.686365,
+          "lat": 35.248715
+        }
+      }
+    ],
+    "info": {
+      "buildingCoverageRatio": 60,
+      "floorAreaRatio": 200
+    },
+    "rentPrice": 56734,
+    "request": 0
+  },
+  {
+    "title": "埼玉県上尾市東町１",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1030z2bsz1030z2ncz173998464.html",
+    "image": "",
+    "agent": "suumo",
+    "prefecture": "saitama",
+    "area": 182.1,
+    "price": 38800000,
+    "access": "湘南新宿ライン高海「上尾」徒歩16分",
+    "nearStation": [
+      {
+        "name": "上尾",
+        "min": 16,
+        "passenger": 84420,
+        "geometry": {
+          "lng": 139.58881,
+          "lat": 35.973020000000005
+        }
+      }
+    ],
+    "info": {
+      "buildingCoverageRatio": 60,
+      "floorAreaRatio": 200
+    },
+    "rentPrice": 58814,
+    "request": 0
+  },
+  {
+    "title": "埼玉県上尾市浅間台１",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1030z2bsz1030z2ncz173998734.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F030%2FN010000%2Fimg%2F734%2F73998734%2F73998734_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "saitama",
+    "area": 118.41,
+    "price": 26800000,
+    "access": "ＪＲ高崎線「北上尾」徒歩9分",
+    "nearStation": [
+      {
+        "name": "北上尾",
+        "min": 9,
+        "passenger": 31568,
+        "geometry": {
+          "lng": 139.577575,
+          "lat": 35.985150000000004
+        }
+      }
+    ],
+    "info": {
+      "buildingCoverageRatio": 60,
+      "floorAreaRatio": 200
+    },
+    "rentPrice": 56401,
+    "request": 0
+  },
+  {
+    "url": "https://suumo.jp/chukoikkodate/__JJ_JJ010FJ100_arz1030z2bsz1021z2ncz173987384.html",
+    "price": 79800000,
+    "info": {
+      "buildingCoverageRatio": 60,
+      "floorAreaRatio": 200
+    },
+    "access": "東急田園都市線「たまプラーザ」徒歩10分",
+    "prefecture": "kanagawa",
+    "agent": "suumoKodate",
+    "nearStation": [
+      {
+        "geometry": {
+          "lat": 35.577569999999994,
+          "lng": 139.559195
+        },
+        "name": "たまプラーザ",
+        "passenger": 83136,
+        "min": 10
+      }
+    ],
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F030%2FN010000%2Fimg%2F384%2F73987384%2F73987384_0001.jpg&w=132&h=99",
+    "area": 152.77,
+    "title": "【中古戸建】 神奈川県川崎市宮前区犬蔵２",
+    "rentPrice": 78136,
+    "demolition": {
+      "type": "軽量鉄骨2階建",
+      "buildingArea": 142.142
+    },
+    "request": 0
+  }
+]

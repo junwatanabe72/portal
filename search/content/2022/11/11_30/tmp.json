@@ -1,0 +1,1702 @@
+[
+  {
+    "agent": "athome",
+    "url": "https://www.athome.co.jp/tochi/6977856803/?DOWN=1&BKLISTID=001LPC&sref=list_simple",
+    "title": "名古屋市昭和区 御器所３丁目 （荒畑駅 ） 住宅用地",
+    "image": "https://www.athome.co.jp/image_files/path/B4XB0w3kY4giZUWRyKltqQ==.jpeg?width=320&height=320&margin=true",
+    "price": 58050000,
+    "nearStation": [
+      {
+        "name": "荒畑",
+        "min": 5,
+        "passenger": 8996,
+        "geometry": { "lng": 136.92523, "lat": 35.1496 }
+      }
+    ],
+    "access": "名古屋市鶴舞線 「荒畑」駅 徒歩5分",
+    "area": 176.0953,
+    "prefecture": "nagoya",
+    "info": { "buildingCoverageRatio": 80, "floorAreaRatio": 200 },
+    "rentPrice": 49800
+  },
+  {
+    "agent": "athome",
+    "url": "https://www.athome.co.jp/tochi/6977444474/?DOWN=1&BKLISTID=001LPC&sref=list_simple",
+    "title": "鶴ヶ島市 富士見４丁目 （若葉駅 ） 住宅用地",
+    "image": "https://www.athome.co.jp/image_files/path/xJeXZ110ymbyA8-yUYzicQ==.jpeg?width=320&height=320&margin=true",
+    "price": 55000000,
+    "nearStation": [
+      {
+        "name": "若葉",
+        "min": 8,
+        "passenger": 38038,
+        "geometry": { "lng": 139.408085, "lat": 35.949405 }
+      }
+    ],
+    "access": "東武東上線 「若葉」駅 徒歩8分",
+    "area": 239.8072,
+    "prefecture": "saitama",
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 58051
+  },
+  {
+    "agent": "athome",
+    "url": "https://www.athome.co.jp/tochi/5840955814/?DOWN=1&BKLISTID=001LPC&sref=list_simple",
+    "title": "福岡市城南区 茶山６丁目 （茶山駅 ） 住宅用地",
+    "image": "https://www.athome.co.jp/image_files/path/ZWkidraafkA7LzrPlkQ0bA==.jpeg?width=320&height=320&margin=true",
+    "price": 32100000,
+    "nearStation": [
+      {
+        "name": "茶山",
+        "min": 6,
+        "passenger": 5064,
+        "geometry": { "lng": 130.365465, "lat": 33.566205 }
+      }
+    ],
+    "access": "地下鉄七隈線 「茶山」駅 徒歩6分",
+    "area": 161.1048,
+    "prefecture": "fukuoka",
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 150 },
+    "rentPrice": 39700
+  },
+  {
+    "title": "城陽市寺田西ノ口 (寺田駅)",
+    "agent": "homes",
+    "area": 253.45,
+    "price": 41500000,
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 160 },
+    "prefecture": "kyoto",
+    "image": "https://image1.homes.jp/smallimg/image.php?file=http%3A%2F%2Fimg.homes.jp%2Fteiq2rgnert8x7q.jpg&width=208&height=138",
+    "nearStation": [
+      {
+        "name": "寺田",
+        "min": 1,
+        "passenger": 8691,
+        "geometry": { "lng": 135.772085, "lat": 34.85327 }
+      }
+    ],
+    "url": "https://www.homes.co.jp/tochi/b-1014080011313/",
+    "access": "近鉄京都線 寺田駅 徒歩1分",
+    "rentPrice": 45000
+  },
+  {
+    "title": "神奈川県鎌倉市坂ノ下",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1030z2bsz1030z2ncz171209509.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2Fsystem%2Fimg%2FDummy_Photo_030_132_99.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "kanagawa",
+    "area": 129.86,
+    "price": 35000000,
+    "access": "江ノ島電鉄線「長谷」徒歩3分",
+    "nearStation": [
+      {
+        "name": "長谷",
+        "min": 3,
+        "passenger": 9276,
+        "geometry": { "lng": 139.53626, "lat": 35.311325 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 80, "floorAreaRatio": 200 },
+    "rentPrice": 50000
+  },
+  {
+    "title": "大阪府大阪市東淀川区小松３",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1060z2bsz1030z2ncz170758048.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F060%2FN010000%2Fimg%2F048%2F70758048%2F70758048_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "osakaMetro",
+    "area": 246.48,
+    "price": 68000000,
+    "access": "阪急京都線「相川」徒歩9分",
+    "nearStation": [
+      {
+        "name": "相川",
+        "min": 9,
+        "passenger": 16200,
+        "geometry": { "lng": 135.53361999999998, "lat": 34.757405 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 44100
+  },
+  {
+    "title": "大阪府高槻市月見町",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1060z2bsz1030z2ncz171195616.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F060%2FN010000%2Fimg%2F616%2F71195616%2F71195616_0061.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "osaka",
+    "area": 376.82,
+    "price": 62800000,
+    "access": "ＪＲ東海道本線「高槻」徒歩13分",
+    "nearStation": [
+      {
+        "name": "高槻",
+        "min": 13,
+        "passenger": 129758,
+        "geometry": { "lng": 135.61711, "lat": 34.851245 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 50, "floorAreaRatio": 100 },
+    "rentPrice": 60200
+  },
+  {
+    "title": "大阪府枚方市藤阪東町１",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1060z2bsz1030z2ncz171236295.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F060%2FN010000%2Fimg%2F295%2F71236295%2F71236295_0032.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "osaka",
+    "area": 121.01,
+    "price": 22800000,
+    "access": "ＪＲ片町線「長尾」徒歩10分",
+    "nearStation": [
+      {
+        "name": "長尾",
+        "min": 10,
+        "passenger": 22888,
+        "geometry": { "lng": 135.71321, "lat": 34.826065 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 47700
+  },
+  {
+    "agent": "athome",
+    "url": "https://www.athome.co.jp/tochi/6977879079/?DOWN=1&BKLISTID=001LPC&sref=list_simple",
+    "title": "大阪市阿倍野区 三明町２丁目 （文の里駅 ） 住宅用地",
+    "image": "https://www.athome.co.jp/image_files/path/JwG6ZuEKxZkYyv9oLrm1zQ==.jpeg?width=320&height=320&margin=true",
+    "price": 150000000,
+    "nearStation": [
+      {
+        "name": "文の里",
+        "min": 7,
+        "passenger": 10191,
+        "geometry": { "lng": 135.518285, "lat": 34.63583 }
+      }
+    ],
+    "access": "地下鉄谷町線 「文の里」駅 徒歩7分",
+    "area": 197.5359,
+    "prefecture": "osakaMetro",
+    "info": { "buildingCoverageRatio": 80, "floorAreaRatio": 300 },
+    "rentPrice": 51300
+  },
+  {
+    "agent": "athome",
+    "url": "https://www.athome.co.jp/tochi/6977879382/?DOWN=1&BKLISTID=001LPC&sref=list_simple",
+    "title": "城陽市 久世南垣内 （城陽駅 ） 住宅用地",
+    "image": "https://www.athome.co.jp/image_files/path/YCQUhYnFV7KGQ3TXdmDzKA==.jpeg?width=320&height=320&margin=true",
+    "price": 52000000,
+    "nearStation": [
+      {
+        "name": "城陽",
+        "min": 8,
+        "passenger": 6880,
+        "geometry": { "lng": 135.78106, "lat": 34.85558 }
+      }
+    ],
+    "access": "ＪＲ奈良線 「城陽」駅 徒歩8分",
+    "area": 312.3994,
+    "prefecture": "kyotoMetro",
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 50000
+  },
+  {
+    "agent": "athome",
+    "url": "https://www.athome.co.jp/tochi/1040453743/?DOWN=1&BKLISTID=001LPC&sref=list_simple",
+    "title": "墨田区 東駒形３丁目 （本所吾妻橋駅 ） 住宅用地",
+    "image": "https://www.athome.co.jp/image_files/path/no_image?width=320&height=320&margin=true",
+    "price": 133000000,
+    "nearStation": [
+      {
+        "name": "本所吾妻橋",
+        "min": 5,
+        "passenger": 19630,
+        "geometry": { "lng": 139.80399, "lat": 35.708565 }
+      }
+    ],
+    "access": "都営浅草線 「本所吾妻橋」駅 徒歩5分",
+    "area": 108.6432,
+    "prefecture": "tokyoMetro",
+    "info": { "buildingCoverageRatio": 80, "floorAreaRatio": 240 },
+    "rentPrice": 87800
+  },
+  {
+    "agent": "athome",
+    "url": "https://www.athome.co.jp/tochi/1045099375/?DOWN=1&BKLISTID=001LPC&sref=list_simple",
+    "title": "世田谷区 成城２丁目 （成城学園前駅 ） 住宅用地",
+    "image": "https://www.athome.co.jp/image_files/path/urB8wFoMIsv5LrwOzkLXrw==.jpeg?width=320&height=320&margin=true",
+    "price": 143000000,
+    "nearStation": [
+      {
+        "name": "成城学園前",
+        "min": 4,
+        "passenger": 88692,
+        "geometry": { "lng": 139.59908000000001, "lat": 35.640135 }
+      }
+    ],
+    "access": "小田急小田原線 「成城学園前」駅 徒歩4分",
+    "area": 195.7559,
+    "prefecture": "tokyoMetro",
+    "info": { "buildingCoverageRatio": 50, "floorAreaRatio": 150 },
+    "rentPrice": 82792
+  },
+  {
+    "agent": "athome",
+    "url": "https://www.athome.co.jp/tochi/5840951791/?DOWN=1&BKLISTID=001LPC&sref=list_simple",
+    "title": "札幌市白石区 本通４丁目北 （白石駅 ） 住宅用地",
+    "image": "https://www.athome.co.jp/image_files/path/chaNpiEVmnIM4y-CBPVEPQ==.jpeg?width=320&height=320&margin=true",
+    "price": 33800000,
+    "nearStation": [
+      {
+        "name": "白石",
+        "min": 8,
+        "passenger": 45162,
+        "geometry": { "lng": 141.41406999999998, "lat": 43.05476 }
+      }
+    ],
+    "access": "ＪＲ函館本線 「白石」駅 徒歩8分",
+    "area": 242.5473,
+    "prefecture": "sapporo",
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 35100
+  },
+  {
+    "agent": "athome",
+    "url": "https://www.athome.co.jp/tochi/1044906735/?DOWN=1&BKLISTID=001LPC&sref=list_simple",
+    "title": "京都市伏見区 桃山町本多上野 （観月橋駅 ） 住宅用地",
+    "image": "https://www.athome.co.jp/image_files/path/xgwKUDZ3bMZUSF5mc-jzuA==.jpeg?width=320&height=320&margin=true",
+    "price": 42000000,
+    "nearStation": [
+      {
+        "name": "観月橋",
+        "min": 8,
+        "passenger": 4212,
+        "geometry": { "lng": 135.768955, "lat": 34.92815 }
+      }
+    ],
+    "access": "京阪宇治線 「観月橋」駅 徒歩8分",
+    "area": 219.7866,
+    "prefecture": "kyotoMetro",
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 300 },
+    "rentPrice": 45300
+  },
+  {
+    "agent": "athome",
+    "url": "https://www.athome.co.jp/tochi/1040974970/?DOWN=1&BKLISTID=001LPC&sref=list_simple",
+    "title": "堺市西区 鳳西町１丁 （鳳駅 ） 住宅用地",
+    "image": "https://www.athome.co.jp/image_files/path/d-EsGeTPAESd9I46vMMwTA==.jpeg?width=320&height=320&margin=true",
+    "price": 54300000,
+    "nearStation": [
+      {
+        "name": "鳳",
+        "min": 6,
+        "passenger": 38192,
+        "geometry": { "lng": 135.45856500000002, "lat": 34.53201 }
+      }
+    ],
+    "access": "ＪＲ阪和線 「鳳」駅 徒歩6分",
+    "area": 230.4669,
+    "prefecture": "osaka",
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 188 },
+    "rentPrice": 54600
+  },
+  {
+    "agent": "athome",
+    "url": "https://www.athome.co.jp/tochi/1045100375/?DOWN=1&BKLISTID=001LPC&sref=list_simple",
+    "title": "名古屋市西区 花の木２丁目 （浅間町駅 ） 住宅用地",
+    "image": "https://www.athome.co.jp/image_files/path/bmGZENaacd7CLJO-LaNtGQ==.jpeg?width=320&height=320&margin=true",
+    "price": 40790000,
+    "nearStation": [
+      {
+        "name": "浅間町",
+        "min": 10,
+        "passenger": 10444,
+        "geometry": { "lng": 136.89020499999998, "lat": 35.183315 }
+      }
+    ],
+    "access": "名古屋市鶴舞線 「浅間町」駅 徒歩10分",
+    "area": 112.3733,
+    "prefecture": "nagoya",
+    "info": { "buildingCoverageRatio": 80, "floorAreaRatio": 400 },
+    "rentPrice": 58100
+  },
+  {
+    "agent": "athome",
+    "url": "https://www.athome.co.jp/tochi/6977826917/?DOWN=1&BKLISTID=001LPC&sref=list_simple",
+    "title": "仙台市青葉区 小田原７丁目 （東照宮駅 ） 住宅用地",
+    "image": "https://www.athome.co.jp/image_files/path/lFetz-9_0wxpIuHxK2_37Q==.jpeg?width=320&height=320&margin=true",
+    "price": 29800000,
+    "nearStation": [
+      {
+        "name": "東照宮",
+        "min": 10,
+        "passenger": 6892,
+        "geometry": { "lng": 140.887385, "lat": 38.27707 }
+      }
+    ],
+    "access": "ＪＲ仙山線 「東照宮」駅 徒歩10分",
+    "area": 128.3738,
+    "prefecture": "sendai",
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 47700
+  },
+  {
+    "title": "尼崎市神田南通2丁目 (出屋敷駅)",
+    "agent": "homes",
+    "area": 152.41,
+    "price": 44000000,
+    "info": { "buildingCoverageRatio": 80, "floorAreaRatio": 600 },
+    "prefecture": "hyogo",
+    "image": "https://image.homes.jp/smallimg/image.php?file=http%3A%2F%2Fimg.homes.jp%2Feu1w2ro0onbgr2p.jpg&width=208&height=138",
+    "nearStation": [
+      {
+        "name": "出屋敷",
+        "min": 9,
+        "passenger": 12792,
+        "geometry": { "lng": 135.40461, "lat": 34.71826 }
+      }
+    ],
+    "url": "https://www.homes.co.jp/tochi/b-1221960007076/",
+    "access": "阪神本線 出屋敷駅 徒歩9分",
+    "rentPrice": 52900
+  },
+  {
+    "title": "京都市東山区袋町 (清水五条駅)",
+    "agent": "homes",
+    "area": 146.54,
+    "price": 86000000,
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "prefecture": "kyotoMetro",
+    "image": "https://image2.homes.jp/smallimg/image.php?file=http%3A%2F%2Fimg.homes.jp%2Fbc3v2qjt09vqw7q.jpg&width=208&height=138",
+    "nearStation": [
+      {
+        "name": "清水五条",
+        "min": 4,
+        "passenger": 9375,
+        "geometry": { "lng": 135.7687, "lat": 34.996565000000004 }
+      }
+    ],
+    "url": "https://www.homes.co.jp/tochi/b-87500000237/",
+    "access": "京阪本線 清水五条駅 徒歩4分",
+    "rentPrice": 54700
+  },
+  {
+    "title": "川口市東川口1丁目 (東川口駅)",
+    "agent": "homes",
+    "area": 165.3,
+    "price": 58000000,
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "prefecture": "saitama",
+    "image": "https://image1.homes.jp/smallimg/image.php?file=http%3A%2F%2Fimg.homes.jp%2Fhcek2rp2bv1ebph.jpg&width=208&height=138",
+    "nearStation": [
+      {
+        "name": "東川口",
+        "min": 3,
+        "passenger": 106546,
+        "geometry": { "lng": 139.74409500000002, "lat": 35.875175 }
+      }
+    ],
+    "url": "https://www.homes.co.jp/tochi/b-1251460075929/",
+    "access": "埼玉高速鉄道 東川口駅 徒歩3分",
+    "rentPrice": 63300
+  },
+  {
+    "title": "東京都江東区大島３",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1030z2bsz1030z2ncz171040157.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F030%2FN010000%2Fimg%2F157%2F71040157%2F71040157_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "tokyoMetro",
+    "area": 121.27,
+    "price": 92000000,
+    "access": "都営新宿線「大島」徒歩7分",
+    "nearStation": [
+      {
+        "name": "大島",
+        "min": 7,
+        "passenger": 34111,
+        "geometry": { "lng": 139.835185, "lat": 35.689845 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 300 },
+    "rentPrice": 81852
+  },
+  {
+    "title": "東京都板橋区三園１",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1030z2bsz1030z2ncz171213264.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F030%2FN010000%2Fimg%2F264%2F71213264%2F71213264_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "tokyoMetro",
+    "area": 219,
+    "price": 99800000,
+    "access": "都営三田線「西高島平」徒歩10分",
+    "nearStation": [
+      {
+        "name": "西高島平",
+        "min": 10,
+        "passenger": 13606,
+        "geometry": { "lng": 139.64568500000001, "lat": 35.791895 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 72271
+  },
+  {
+    "title": "東京都大田区南六郷１",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1030z2bsz1030z2ncz171225458.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F030%2FN010000%2Fimg%2F458%2F71225458%2F71225458_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "tokyoMetro",
+    "area": 118.02,
+    "price": 74800000,
+    "access": "京急本線「雑色」徒歩14分",
+    "nearStation": [
+      {
+        "name": "雑色",
+        "min": 14,
+        "passenger": 32138,
+        "geometry": { "lng": 139.715035, "lat": 35.549775 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 78767
+  },
+  {
+    "title": "東京都練馬区小竹町２",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1030z2bsz1030z2ncz171226508.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F030%2FN010000%2Fimg%2F508%2F71226508%2F71226508_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "tokyoMetro",
+    "area": 98.7,
+    "price": 74800000,
+    "access": "東京メトロ有楽町線「小竹向原」徒歩8分",
+    "nearStation": [
+      {
+        "name": "小竹向原",
+        "min": 8,
+        "passenger": 339614,
+        "geometry": { "lng": 139.67952000000002, "lat": 35.743395 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 300 },
+    "rentPrice": 76000
+  },
+  {
+    "title": "東京都江東区扇橋１",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1030z2bsz1030z2ncz171227720.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F030%2FN010000%2Fimg%2F720%2F71227720%2F71227720_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "tokyoMetro",
+    "area": 82.36,
+    "price": 69800000,
+    "access": "東京メトロ半蔵門線「住吉」徒歩11分",
+    "nearStation": [
+      {
+        "name": "住吉",
+        "min": 11,
+        "passenger": 105015,
+        "geometry": { "lng": 139.816515, "lat": 35.688990000000004 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 300 },
+    "rentPrice": 85853
+  },
+  {
+    "title": "東京都板橋区志村３",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1030z2bsz1030z2ncz171229569.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F030%2FN010000%2Fimg%2F569%2F71229569%2F71229569_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "tokyoMetro",
+    "area": 139.56,
+    "price": 63000000,
+    "access": "都営三田線「志村三丁目」徒歩2分",
+    "nearStation": [
+      {
+        "name": "志村三丁目",
+        "min": 2,
+        "passenger": 32536,
+        "geometry": { "lng": 139.68586, "lat": 35.777465 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 73566
+  },
+  {
+    "title": "大阪府大阪市東住吉区田辺５",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1060z2bsz1030z2ncz197777984.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F060%2FN010000%2Fimg%2F984%2F97777984%2F97777984_0035.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "osakaMetro",
+    "area": 138.05,
+    "price": 45800000,
+    "access": "近鉄南大阪線「今川」徒歩3分",
+    "nearStation": [
+      {
+        "name": "今川",
+        "min": 3,
+        "passenger": 4295,
+        "geometry": { "lng": 135.531095, "lat": 34.626305 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 80, "floorAreaRatio": 300 },
+    "rentPrice": 45900
+  },
+  {
+    "title": "大阪府大阪市東住吉区湯里４",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1060z2bsz1030z2ncz170790578.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F060%2FN010000%2Fimg%2F578%2F70790578%2F70790578_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "osakaMetro",
+    "area": 128.08,
+    "price": 37800000,
+    "access": "近鉄南大阪線「針中野」徒歩12分",
+    "nearStation": [
+      {
+        "name": "針中野",
+        "min": 12,
+        "passenger": 9275,
+        "geometry": { "lng": 135.53305, "lat": 34.617045 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 51200
+  },
+  {
+    "title": "大阪府大阪市西区九条３-20-22",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1060z2bsz1030z2ncz171195964.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F060%2FN010000%2Fimg%2F964%2F71195964%2F71195964_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "osakaMetro",
+    "area": 140.35,
+    "price": 68800000,
+    "access": "地下鉄中央線「九条」徒歩7分",
+    "nearStation": [
+      {
+        "name": "九条",
+        "min": 7,
+        "passenger": 48439,
+        "geometry": { "lng": 135.47476, "lat": 34.673320000000004 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 80, "floorAreaRatio": 240 },
+    "rentPrice": 57700
+  },
+  {
+    "title": "大阪府大阪市住之江区北加賀屋１",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1060z2bsz1030z2ncz171234206.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F060%2FN010000%2Fimg%2F206%2F71234206%2F71234206_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "osakaMetro",
+    "area": 165.31,
+    "price": 52000000,
+    "access": "地下鉄四つ橋線「北加賀屋」徒歩4分",
+    "nearStation": [
+      {
+        "name": "北加賀屋",
+        "min": 4,
+        "passenger": 25074,
+        "geometry": { "lng": 135.479355, "lat": 34.621295 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 80, "floorAreaRatio": 200 },
+    "rentPrice": 53100
+  },
+  {
+    "title": "大阪府大阪市東住吉区北田辺２",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1060z2bsz1030z2ncz171209755.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F060%2FN010000%2Fimg%2F755%2F71209755%2F71209755_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "osakaMetro",
+    "area": 109.22,
+    "price": 45228000,
+    "access": "近鉄南大阪線「北田辺」徒歩5分",
+    "nearStation": [
+      {
+        "name": "北田辺",
+        "min": 5,
+        "passenger": 5277,
+        "geometry": { "lng": 135.52894, "lat": 34.63203 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 80, "floorAreaRatio": 300 },
+    "rentPrice": 52700
+  },
+  {
+    "title": "大阪府大阪市平野区平野本町２",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1060z2bsz1030z2ncz171209299.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F060%2FN010000%2Fimg%2F299%2F71209299%2F71209299_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "osakaMetro",
+    "area": 102.07,
+    "price": 32800000,
+    "access": "地下鉄谷町線「平野」徒歩1分",
+    "nearStation": [
+      {
+        "name": "平野",
+        "min": 1,
+        "passenger": 50561,
+        "geometry": { "lng": 135.41733, "lat": 34.86876 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 80, "floorAreaRatio": 300 },
+    "rentPrice": 58400
+  },
+  {
+    "title": "大阪府東大阪市上小阪１",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1060z2bsz1030z2ncz170988198.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F060%2FN010000%2Fimg%2F198%2F70988198%2F70988198_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "osaka",
+    "area": 339.17,
+    "price": 96800000,
+    "access": "近鉄奈良線「河内小阪」徒歩12分",
+    "nearStation": [
+      {
+        "name": "河内小阪",
+        "min": 12,
+        "passenger": 26959,
+        "geometry": { "lng": 135.58132, "lat": 34.66398 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 300 },
+    "rentPrice": 40600
+  },
+  {
+    "title": "大阪府堺市北区新金岡町５",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1060z2bsz1030z2ncz170567893.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F060%2FN010000%2Fimg%2F893%2F70567893%2F70567893_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "osaka",
+    "area": 164.28,
+    "price": 55800000,
+    "access": "地下鉄御堂筋線「新金岡」徒歩12分",
+    "nearStation": [
+      {
+        "name": "新金岡",
+        "min": 12,
+        "passenger": 21512,
+        "geometry": { "lng": 135.51527, "lat": 34.568200000000004 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 51000
+  },
+  {
+    "title": "大阪府堺市北区百舌鳥本町２",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1060z2bsz1030z2ncz171208656.html",
+    "image": "",
+    "agent": "suumo",
+    "prefecture": "osaka",
+    "area": 171.45,
+    "price": 37500000,
+    "access": "ＪＲ阪和線「百舌鳥」徒歩12分",
+    "nearStation": [
+      {
+        "name": "百舌鳥",
+        "min": 12,
+        "passenger": 7842,
+        "geometry": { "lng": 135.48914000000002, "lat": 34.55854 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 53100
+  },
+  {
+    "title": "大阪府豊中市上野西１",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1060z2bsz1030z2ncz171205453.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F060%2FN010000%2Fimg%2F453%2F71205453%2F71205453_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "osaka",
+    "area": 201.65,
+    "price": 69800000,
+    "access": "阪急宝塚線「豊中」徒歩13分",
+    "nearStation": [
+      {
+        "name": "豊中",
+        "min": 13,
+        "passenger": 47483,
+        "geometry": { "lng": 135.462405, "lat": 34.786635000000004 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 150 },
+    "rentPrice": 60600
+  },
+  {
+    "title": "大阪府堺市堺区中田出井町３",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1060z2bsz1030z2ncz171234226.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F060%2FN010000%2Fimg%2F226%2F71234226%2F71234226_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "osaka",
+    "area": 168,
+    "price": 58700000,
+    "access": "南海高野線「堺東」徒歩11分",
+    "nearStation": [
+      {
+        "name": "堺東",
+        "min": 11,
+        "passenger": 60454,
+        "geometry": { "lng": 135.48503, "lat": 34.575855000000004 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 52000
+  },
+  {
+    "title": "大阪府箕面市坊島１",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1060z2bsz1030z2ncz171206091.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F060%2FN010000%2Fimg%2F091%2F71206091%2F71206091_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "osaka",
+    "area": 343.79,
+    "price": 54800000,
+    "access": "阪急箕面線「箕面」徒歩15分",
+    "nearStation": [
+      {
+        "name": "箕面",
+        "min": 15,
+        "passenger": 14664,
+        "geometry": { "lng": 135.468165, "lat": 34.833625 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 168 },
+    "rentPrice": 40400
+  },
+  {
+    "title": "大阪府吹田市垂水町２",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1060z2bsz1030z2ncz171213451.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F060%2FN010000%2Fimg%2F451%2F71213451%2F71213451_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "osaka",
+    "area": 118.04,
+    "price": 48700000,
+    "access": "地下鉄御堂筋線「江坂」徒歩15分",
+    "nearStation": [
+      {
+        "name": "江坂",
+        "min": 15,
+        "passenger": 106876,
+        "geometry": { "lng": 135.497095, "lat": 34.758750000000006 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 68400
+  },
+  {
+    "title": "大阪府吹田市垂水町２",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1060z2bsz1030z2ncz171213450.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F060%2FN010000%2Fimg%2F450%2F71213450%2F71213450_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "osaka",
+    "area": 116.03,
+    "price": 45700000,
+    "access": "地下鉄御堂筋線「江坂」徒歩15分",
+    "nearStation": [
+      {
+        "name": "江坂",
+        "min": 15,
+        "passenger": 106876,
+        "geometry": { "lng": 135.497095, "lat": 34.758750000000006 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 68400
+  },
+  {
+    "title": "大阪府豊中市螢池東町４",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1060z2bsz1030z2ncz171231403.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F060%2FN010000%2Fimg%2F403%2F71231403%2F71231403_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "osaka",
+    "area": 94.19,
+    "price": 36800000,
+    "access": "阪急宝塚線「蛍池」徒歩8分",
+    "nearStation": [
+      {
+        "name": "蛍池",
+        "min": 8,
+        "passenger": 70909,
+        "geometry": { "lng": 135.44931, "lat": 34.793925 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 80, "floorAreaRatio": 300 },
+    "rentPrice": 48200
+  },
+  {
+    "title": "大阪府東大阪市日下町１",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1060z2bsz1030z2ncz171212188.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F060%2FN010000%2Fimg%2F188%2F71212188%2F71212188_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "osaka",
+    "area": 212.35,
+    "price": 21800000,
+    "access": "近鉄奈良線「石切」徒歩12分",
+    "nearStation": [
+      {
+        "name": "石切",
+        "min": 12,
+        "passenger": 8887,
+        "geometry": { "lng": 135.65461, "lat": 34.684245 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 150 },
+    "rentPrice": 59200
+  },
+  {
+    "title": "大阪府東大阪市日下町１",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1060z2bsz1030z2ncz171212186.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F060%2FN010000%2Fimg%2F186%2F71212186%2F71212186_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "osaka",
+    "area": 203.25,
+    "price": 19800000,
+    "access": "近鉄奈良線「石切」徒歩12分",
+    "nearStation": [
+      {
+        "name": "石切",
+        "min": 12,
+        "passenger": 8887,
+        "geometry": { "lng": 135.65461, "lat": 34.684245 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 150 },
+    "rentPrice": 59200
+  },
+  {
+    "title": "大阪府八尾市刑部２",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1060z2bsz1030z2ncz171231984.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F060%2FN010000%2Fimg%2F984%2F71231984%2F71231984_0010.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "osaka",
+    "area": 361.02,
+    "price": 57500000,
+    "access": "近鉄大阪線「高安」徒歩10分",
+    "nearStation": [
+      {
+        "name": "高安",
+        "min": 10,
+        "passenger": 11202,
+        "geometry": { "lng": 135.624365, "lat": 34.619659999999996 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 44700
+  },
+  {
+    "title": "大阪府八尾市末広町３",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1060z2bsz1030z2ncz171206444.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F060%2FN010000%2Fimg%2F444%2F71206444%2F71206444_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "osaka",
+    "area": 218.19,
+    "price": 42800000,
+    "access": "近鉄大阪線「久宝寺口」徒歩8分",
+    "nearStation": [
+      {
+        "name": "久宝寺口",
+        "min": 8,
+        "passenger": 5445,
+        "geometry": { "lng": 135.590565, "lat": 34.634585 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 160 },
+    "rentPrice": 45200
+  },
+  {
+    "title": "神奈川県相模原市南区相模台２",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1030z2bsz1030z2ncz170352040.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F030%2FN010000%2Fimg%2F040%2F70352040%2F70352040_0002.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "kanagawa",
+    "area": 148.73,
+    "price": 23800000,
+    "access": "小田急小田原線「小田急相模原」徒歩9分",
+    "nearStation": [
+      {
+        "name": "小田急相模原",
+        "min": 9,
+        "passenger": 57496,
+        "geometry": { "lng": 139.423025, "lat": 35.515555 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 60927
+  },
+  {
+    "title": "神奈川県川崎市中原区上平間",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1030z2bsz1030z2ncz171205501.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F030%2FN010000%2Fimg%2F501%2F71205501%2F71205501_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "kanagawa",
+    "area": 101.61,
+    "price": 52800000,
+    "access": "ＪＲ南武線「平間」徒歩4分",
+    "nearStation": [
+      {
+        "name": "平間",
+        "min": 4,
+        "passenger": 29558,
+        "geometry": { "lng": 139.67109499999998, "lat": 35.560565 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 80, "floorAreaRatio": 300 },
+    "rentPrice": 75121
+  },
+  {
+    "title": "神奈川県川崎市多摩区西生田３",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1030z2bsz1030z2ncz171217683.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F030%2FN010000%2Fimg%2F683%2F71217683%2F71217683_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "kanagawa",
+    "area": 383.84,
+    "price": 49800000,
+    "access": "小田急線「読売ランド前」徒歩7分",
+    "nearStation": [
+      {
+        "name": "読売ランド前",
+        "min": 7,
+        "passenger": 36082,
+        "geometry": { "lng": 139.52804, "lat": 35.614734999999996 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 50, "floorAreaRatio": 100 },
+    "rentPrice": 66099
+  },
+  {
+    "title": "神奈川県横須賀市三春町２",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1030z2bsz1030z2ncz171148974.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F030%2FN010000%2Fimg%2F974%2F71148974%2F71148974_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "kanagawa",
+    "area": 280.85,
+    "price": 40000000,
+    "access": "京急本線「県立大学」徒歩10分",
+    "nearStation": [
+      {
+        "name": "県立大学",
+        "min": 10,
+        "passenger": 12350,
+        "geometry": { "lng": 139.676395, "lat": 35.27021 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 61990
+  },
+  {
+    "title": "福岡県福岡市早良区南庄３",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1090z2bsz1030z2ncz170047662.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F090%2FN010000%2Fimg%2F662%2F70047662%2F70047662_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "fukuoka",
+    "area": 134.55,
+    "price": 40000000,
+    "access": "地下鉄空港線「室見」徒歩14分",
+    "nearStation": [
+      {
+        "name": "室見",
+        "min": 14,
+        "passenger": 16903,
+        "geometry": { "lng": 130.33986, "lat": 33.580675 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 150 },
+    "rentPrice": 42900
+  },
+  {
+    "title": "福岡県福岡市中央区鳥飼３",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1090z2bsz1030z2ncz170306671.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F090%2FN010000%2Fimg%2F671%2F70306671%2F70306671_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "fukuoka",
+    "area": 140.87,
+    "price": 32800000,
+    "access": "地下鉄空港線「西新」徒歩13分",
+    "nearStation": [
+      {
+        "name": "西新",
+        "min": 13,
+        "passenger": 49694,
+        "geometry": { "lng": 130.35952500000002, "lat": 33.583765 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 63500
+  },
+  {
+    "title": "福岡県福岡市早良区野芥４",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1090z2bsz1030z2ncz171105587.html",
+    "image": "",
+    "agent": "suumo",
+    "prefecture": "fukuoka",
+    "area": 181,
+    "price": 34800000,
+    "access": "地下鉄七隈線「野芥」徒歩10分",
+    "nearStation": [
+      {
+        "name": "野芥",
+        "min": 10,
+        "passenger": 8332,
+        "geometry": { "lng": 130.34673, "lat": 33.54822 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 70, "floorAreaRatio": 200 },
+    "rentPrice": 40300
+  },
+  {
+    "title": "福岡県福岡市西区姪の浜１",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1090z2bsz1030z2ncz171207983.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F090%2FN010000%2Fimg%2F983%2F71207983%2F71207983_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "fukuoka",
+    "area": 199.14,
+    "price": 84000000,
+    "access": "地下鉄空港線「姪浜」徒歩4分",
+    "nearStation": [
+      {
+        "name": "姪浜",
+        "min": 4,
+        "passenger": 99294,
+        "geometry": { "lng": 130.325065, "lat": 33.58358 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 43200
+  },
+  {
+    "title": "福岡県福岡市東区馬出５",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1090z2bsz1030z2ncz171200583.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F090%2FN010000%2Fimg%2F583%2F71200583%2F71200583_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "fukuoka",
+    "area": 158.66,
+    "price": 45000000,
+    "access": "地下鉄箱崎線「箱崎宮前」徒歩5分",
+    "nearStation": [
+      {
+        "name": "箱崎宮前",
+        "min": 5,
+        "passenger": 8935,
+        "geometry": { "lng": 130.419365, "lat": 33.61608 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 41200
+  },
+  {
+    "title": "福岡県福岡市早良区弥生２",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1090z2bsz1030z2ncz171200234.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F090%2FN010000%2Fimg%2F234%2F71200234%2F71200234_0023.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "fukuoka",
+    "area": 158.61,
+    "price": 75800000,
+    "access": "西鉄バス「弥生二丁目」徒歩2分",
+    "nearStation": [
+      {
+        "name": "弥生二丁目",
+        "min": 2,
+        "passenger": 0,
+        "geometry": { "lng": 0, "lat": 0 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 45000
+  },
+  {
+    "title": "兵庫県西宮市上大市４",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1060z2bsz1030z2ncz170750263.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F060%2FN010000%2Fimg%2F263%2F70750263%2F70750263_0028.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "hyogo",
+    "area": 164.92,
+    "price": 39800000,
+    "access": "阪急今津線「甲東園」徒歩11分",
+    "nearStation": [
+      {
+        "name": "甲東園",
+        "min": 11,
+        "passenger": 26007,
+        "geometry": { "lng": 135.35981, "lat": 34.76676500000001 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 50000
+  },
+  {
+    "title": "兵庫県尼崎市塚口本町６",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1060z2bsz1030z2ncz171232330.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F060%2FN010000%2Fimg%2F330%2F71232330%2F71232330_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "hyogo",
+    "area": 291.63,
+    "price": 62800000,
+    "access": "阪急神戸線「塚口」徒歩12分",
+    "nearStation": [
+      {
+        "name": "塚口",
+        "min": 12,
+        "passenger": 71277,
+        "geometry": { "lng": 135.42512, "lat": 34.75083 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 57200
+  },
+  {
+    "title": "兵庫県明石市鍛治屋町",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1060z2bsz1030z2ncz171202871.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F060%2FN010000%2Fimg%2F871%2F71202871%2F71202871_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "hyogo",
+    "area": 88.8,
+    "price": 27000000,
+    "access": "ＪＲ山陽本線「明石」徒歩5分",
+    "nearStation": [
+      {
+        "name": "明石",
+        "min": 5,
+        "passenger": 106972,
+        "geometry": { "lng": 134.99436, "lat": 34.6489 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 80, "floorAreaRatio": 600 },
+    "rentPrice": 49200
+  },
+  {
+    "title": "兵庫県芦屋市南宮町",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1060z2bsz1030z2ncz171206280.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F060%2FN010000%2Fimg%2F280%2F71206280%2F71206280_0015.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "hyogo",
+    "area": 126.21,
+    "price": 25800000,
+    "access": "阪神本線「打出」徒歩13分",
+    "nearStation": [
+      {
+        "name": "打出",
+        "min": 13,
+        "passenger": 15925,
+        "geometry": { "lng": 135.315565, "lat": 34.731605 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 56800
+  },
+  {
+    "title": "愛知県名古屋市東区出来町３",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1050z2bsz1030z2ncz171234109.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F050%2FN010000%2Fimg%2F109%2F71234109%2F71234109_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "nagoya",
+    "area": 113.55,
+    "price": 46800000,
+    "access": "ＪＲ中央本線「大曽根」徒歩11分",
+    "nearStation": [
+      {
+        "name": "大曽根",
+        "min": 11,
+        "passenger": 145959,
+        "geometry": { "lng": 136.93695, "lat": 35.191595 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 80, "floorAreaRatio": 400 },
+    "rentPrice": 60200
+  },
+  {
+    "title": "愛知県名古屋市西区稲生町３",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1050z2bsz1030z2ncz171232841.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F050%2FN010000%2Fimg%2F841%2F71232841%2F71232841_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "nagoya",
+    "area": 213.45,
+    "price": 43900000,
+    "access": "地下鉄鶴舞線「庄内通」徒歩11分",
+    "nearStation": [
+      {
+        "name": "庄内通",
+        "min": 11,
+        "passenger": 14880,
+        "geometry": { "lng": 136.891005, "lat": 35.203815000000006 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 160 },
+    "rentPrice": 51600
+  },
+  {
+    "title": "愛知県名古屋市名東区丁田町",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1050z2bsz1030z2ncz171206556.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F050%2FN010000%2Fimg%2F556%2F71206556%2F71206556_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "nagoya",
+    "area": 137.91,
+    "price": 27800000,
+    "access": "地下鉄東山線「上社」徒歩7分",
+    "nearStation": [
+      {
+        "name": "上社",
+        "min": 7,
+        "passenger": 22722,
+        "geometry": { "lng": 137.00659000000002, "lat": 35.17348 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 51300
+  },
+  {
+    "title": "東京都西東京市保谷町３",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1030z2bsz1030z2ncz171192700.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F030%2FN010000%2Fimg%2F700%2F71192700%2F71192700_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "tokyo",
+    "area": 127.24,
+    "price": 65800000,
+    "access": "西武新宿線「西武柳沢」徒歩2分",
+    "nearStation": [
+      {
+        "name": "西武柳沢",
+        "min": 2,
+        "passenger": 16616,
+        "geometry": { "lng": 139.5524, "lat": 35.72858 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 80, "floorAreaRatio": 273 },
+    "rentPrice": 69931
+  },
+  {
+    "title": "千葉県習志野市本大久保１",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1030z2bsz1030z2ncz171201222.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F030%2FN010000%2Fimg%2F222%2F71201222%2F71201222_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "chiba",
+    "area": 136.61,
+    "price": 24800000,
+    "access": "京成本線「京成大久保」徒歩8分",
+    "nearStation": [
+      {
+        "name": "京成大久保",
+        "min": 8,
+        "passenger": 35157,
+        "geometry": { "lng": 140.048605, "lat": 35.685925 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 58658
+  },
+  {
+    "title": "京都府京都市伏見区西大文字町",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1060z2bsz1030z2ncz171226678.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F060%2FN010000%2Fimg%2F678%2F71226678%2F71226678_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "kyotoMetro",
+    "area": 223.86,
+    "price": 50700000,
+    "access": "京阪本線「伏見桃山」徒歩15分",
+    "nearStation": [
+      {
+        "name": "伏見桃山",
+        "min": 15,
+        "passenger": 10469,
+        "geometry": { "lng": 135.76436, "lat": 34.932505 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 52200
+  },
+  {
+    "title": "京都府京都市伏見区淀木津町",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1060z2bsz1030z2ncz171234753.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F060%2FN010000%2Fimg%2F753%2F71234753%2F71234753_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "kyotoMetro",
+    "area": 333.88,
+    "price": 21800000,
+    "access": "京阪本線「淀」徒歩12分",
+    "nearStation": [
+      {
+        "name": "淀",
+        "min": 12,
+        "passenger": 15642,
+        "geometry": { "lng": 135.720996, "lat": 34.9065155 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 160 },
+    "rentPrice": 58500
+  },
+  {
+    "title": "埼玉県さいたま市浦和区東岸町",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1030z2bsz1030z2ncz171206389.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F030%2FN010000%2Fimg%2F389%2F71206389%2F71206389_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "saitama",
+    "area": 149.76,
+    "price": 99800000,
+    "access": "ＪＲ京浜東北線「浦和」徒歩10分",
+    "nearStation": [
+      {
+        "name": "浦和",
+        "min": 10,
+        "passenger": 190128,
+        "geometry": { "lng": 139.657145, "lat": 35.858565 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 65100
+  },
+  {
+    "title": "埼玉県上尾市柏座２",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1030z2bsz1030z2ncz171217769.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F030%2FN010000%2Fimg%2F769%2F71217769%2F71217769_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "saitama",
+    "area": 151.12,
+    "price": 49800000,
+    "access": "ＪＲ高崎線「上尾」徒歩9分",
+    "nearStation": [
+      {
+        "name": "上尾",
+        "min": 9,
+        "passenger": 84420,
+        "geometry": { "lng": 139.58881, "lat": 35.973020000000005 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 70, "floorAreaRatio": 200 },
+    "rentPrice": 58814
+  },
+  {
+    "title": "宮城県仙台市青葉区北山１",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1020z2bsz1030z2ncz170755315.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F020%2FN010000%2Fimg%2F315%2F70755315%2F70755315_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "sendai",
+    "area": 404.13,
+    "price": 17500000,
+    "access": "ＪＲ仙山線「北山」徒歩12分",
+    "nearStation": [
+      {
+        "name": "北山",
+        "min": 12,
+        "passenger": 4998,
+        "geometry": { "lng": 140.851895, "lat": 38.285145 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 160 },
+    "rentPrice": 38700
+  },
+  {
+    "title": "宮城県仙台市青葉区上杉６",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1020z2bsz1030z2ncz171200396.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F020%2FN010000%2Fimg%2F396%2F71200396%2F71200396_0073.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "sendai",
+    "area": 141.24,
+    "price": 60000000,
+    "access": "仙台市地下鉄南北線「北四番丁」徒歩14分",
+    "nearStation": [
+      {
+        "name": "北四番丁",
+        "min": 14,
+        "passenger": 17154,
+        "geometry": { "lng": 140.86910999999998, "lat": 38.272099999999995 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 64300
+  },
+  {
+    "title": "宮城県仙台市宮城野区田子２",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1020z2bsz1030z2ncz171207988.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F020%2FN010000%2Fimg%2F988%2F71207988%2F71207988_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "sendai",
+    "area": 262.35,
+    "price": 43650000,
+    "access": "ＪＲ仙石線「福田町」徒歩8分",
+    "nearStation": [
+      {
+        "name": "福田町",
+        "min": 8,
+        "passenger": 7942,
+        "geometry": { "lng": 140.95789000000002, "lat": 38.27499 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 52600
+  },
+  {
+    "title": "広島県広島市西区三篠北町",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1080z2bsz1030z2ncz171204239.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F080%2FN010000%2Fimg%2F239%2F71204239%2F71204239_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "hiroshima",
+    "area": 100.79,
+    "price": 40600000,
+    "access": "ＪＲ山陽本線「横川」徒歩12分",
+    "nearStation": [
+      {
+        "name": "横川",
+        "min": 12,
+        "passenger": 34048,
+        "geometry": { "lng": 132.449095, "lat": 34.41005 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 40800
+  },
+  {
+    "title": "広島県広島市西区井口明神２",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1080z2bsz1030z2ncz171204237.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F080%2FN010000%2Fimg%2F237%2F71204237%2F71204237_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "hiroshima",
+    "area": 102.46,
+    "price": 32000000,
+    "access": "広島電鉄宮島線「井口」徒歩4分",
+    "nearStation": [
+      {
+        "name": "井口",
+        "min": 4,
+        "passenger": 2040,
+        "geometry": { "lng": 132.386065, "lat": 34.371885000000006 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 46500
+  },
+  {
+    "title": "広島県広島市西区東観音町",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1080z2bsz1030z2ncz171196823.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F080%2FN010000%2Fimg%2F823%2F71196823%2F71196823_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "hiroshima",
+    "area": 243.86,
+    "price": 88000000,
+    "access": "広電バス「観音本町」徒歩5分",
+    "nearStation": [
+      {
+        "name": "観音本町",
+        "min": 5,
+        "passenger": 0,
+        "geometry": { "lng": 0, "lat": 0 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 45000
+  },
+  {
+    "title": "兵庫県神戸市兵庫区西柳原町",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1060z2bsz1030z2ncz171209159.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F060%2FN010000%2Fimg%2F159%2F71209159%2F71209159_0149.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "hyogoMetro",
+    "area": 107.46,
+    "price": 43000000,
+    "access": "ＪＲ山陽本線「兵庫」徒歩7分",
+    "nearStation": [
+      {
+        "name": "兵庫",
+        "min": 7,
+        "passenger": 44666,
+        "geometry": { "lng": 135.164625, "lat": 34.66808 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 80, "floorAreaRatio": 400 },
+    "rentPrice": 59100
+  },
+  {
+    "title": "北海道札幌市中央区南四条西２２",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1010z2bsz1030z2ncz170988344.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F010%2FN010000%2Fimg%2F344%2F70988344%2F70988344_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "sapporo",
+    "area": 269.18,
+    "price": 98000000,
+    "access": "地下鉄東西線「円山公園」徒歩9分",
+    "nearStation": [
+      {
+        "name": "円山公園",
+        "min": 9,
+        "passenger": 30504,
+        "geometry": { "lng": 141.31951500000002, "lat": 43.055735 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 40000
+  },
+  {
+    "title": "北海道札幌市豊平区月寒東一条６-4-16",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1010z2bsz1030z2ncz170822433.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F010%2FN010000%2Fimg%2F433%2F70822433%2F70822433_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "sapporo",
+    "area": 231.4,
+    "price": 39800000,
+    "access": "地下鉄東豊線「月寒中央」徒歩4分",
+    "nearStation": [
+      {
+        "name": "月寒中央",
+        "min": 4,
+        "passenger": 18470,
+        "geometry": { "lng": 141.396885, "lat": 43.029685 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 36200
+  },
+  {
+    "title": "北海道札幌市東区北九条東１４",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1010z2bsz1030z2ncz170916124.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F010%2FN010000%2Fimg%2F124%2F70916124%2F70916124_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "sapporo",
+    "area": 169,
+    "price": 33700000,
+    "access": "ＪＲ函館本線「苗穂」徒歩11分",
+    "nearStation": [
+      {
+        "name": "苗穂",
+        "min": 11,
+        "passenger": 10400,
+        "geometry": { "lng": 141.37323376894165, "lat": 43.06858 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 70, "floorAreaRatio": 200 },
+    "rentPrice": 38900
+  },
+  {
+    "title": "北海道札幌市中央区南十条西２０",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1010z2bsz1030z2ncz171233086.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F010%2FN010000%2Fimg%2F086%2F71233086%2F71233086_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "sapporo",
+    "area": 366.47,
+    "price": 77600000,
+    "access": "札幌市電「西線９条旭山公園通」徒歩10分",
+    "nearStation": [
+      {
+        "name": "西線９条旭山公園通",
+        "min": 10,
+        "passenger": 0,
+        "geometry": { "lng": 0, "lat": 0 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 300 },
+    "rentPrice": 45000
+  },
+  {
+    "title": "北海道札幌市北区北二十六条西１７",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1010z2bsz1030z2ncz171235279.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F010%2FN010000%2Fimg%2F279%2F71235279%2F71235279_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "sapporo",
+    "area": 141,
+    "price": 18500000,
+    "access": "ＪＲ札沼線「新川」徒歩7分",
+    "nearStation": [
+      {
+        "name": "新川",
+        "min": 7,
+        "passenger": 6516,
+        "geometry": { "lng": 141.323735, "lat": 43.098575 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 32500
+  },
+  {
+    "title": "北海道札幌市厚別区厚別北三条５",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1010z2bsz1030z2ncz171204230.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F010%2FN010000%2Fimg%2F230%2F71204230%2F71204230_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "sapporo",
+    "area": 244,
+    "price": 16800000,
+    "access": "ＪＲ函館本線「森林公園」徒歩6分",
+    "nearStation": [
+      {
+        "name": "森林公園",
+        "min": 6,
+        "passenger": 8318,
+        "geometry": { "lng": 141.481525, "lat": 43.056445 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 160 },
+    "rentPrice": 31400
+  },
+  {
+    "title": "北海道札幌市白石区平和通１５丁目北２０",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1010z2bsz1030z2ncz171233529.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F010%2FN010000%2Fimg%2F529%2F71233529%2F71233529_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "sapporo",
+    "area": 165.24,
+    "price": 15800000,
+    "access": "ＪＲ千歳線「平和」徒歩11分",
+    "nearStation": [
+      {
+        "name": "平和",
+        "min": 11,
+        "passenger": 5608,
+        "geometry": { "lng": 141.438, "lat": 43.046995 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 45000
+  },
+  {
+    "title": "北海道札幌市東区北二十三条東１０",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1010z2bsz1030z2ncz171210918.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F010%2FN010000%2Fimg%2F918%2F71210918%2F71210918_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "sapporo",
+    "area": 286.62,
+    "price": 46000000,
+    "access": "地下鉄東豊線「元町」徒歩9分",
+    "nearStation": [
+      {
+        "name": "元町",
+        "min": 9,
+        "passenger": 18724,
+        "geometry": { "lng": 141.371785, "lat": 43.09404 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 31700
+  },
+  {
+    "title": "北海道札幌市西区発寒十一条４",
+    "url": "https://suumo.jp/tochi/__JJ_JJ010FJ100_arz1010z2bsz1030z2ncz171147971.html",
+    "image": "https://img01.suumo.com/jj/resizeImage?src=gazo%2Fbukken%2F010%2FN010000%2Fimg%2F971%2F71147971%2F71147971_0001.jpg&w=132&h=99",
+    "agent": "suumo",
+    "prefecture": "sapporo",
+    "area": 113,
+    "price": 21000000,
+    "access": "ＪＲ函館本線「発寒中央」徒歩8分",
+    "nearStation": [
+      {
+        "name": "発寒中央",
+        "min": 8,
+        "passenger": 9004,
+        "geometry": { "lng": 141.294575, "lat": 43.089265 }
+      }
+    ],
+    "info": { "buildingCoverageRatio": 60, "floorAreaRatio": 200 },
+    "rentPrice": 38400
+  },
+  {
+    "title": "松戸市常盤平５丁目土地",
+    "image": "https://www.stepon.co.jp/pub/img/retail/114014/11141078/11141078_m.jpg",
+    "nearStation": [
+      {
+        "name": "五香",
+        "min": 3,
+        "passenger": 29725,
+        "geometry": { "lng": 139.96577000000002, "lat": 35.797285 }
+      }
+    ],
+    "url": "https://www.stepon.co.jp/tochi/detail_11141078/",
+    "prefecture": "chiba",
+    "agent": "stepon",
+    "access": "新京成電鉄「五香」駅徒歩3分",
+    "price": 82800000,
+    "area": 240.66,
+    "info": { "buildingCoverageRatio": 80, "floorAreaRatio": 300 },
+    "rentPrice": 56638
+  }
+]
