@@ -410,10 +410,10 @@ def load_training_data(paths):
         # 除外対象の都道府県
         # info から floorAreaRatio を取得
         far = info.get("floorAreaRatio", None)
-        # if price < 15000000:
-        #     continue
-        # if price > 100000000:
-        #     continue
+        if price < 10000000:
+            continue
+        if price > 90000000:
+            continue
         if not isinstance(min, (int, float)):
             continue
         if min > 10:
@@ -423,8 +423,8 @@ def load_training_data(paths):
             continue
         if far < 120:
             continue
-        if far > 300:
-            continue
+        # if far > 300:
+        #     continue
         if area < 120:
             continue
         if area > 240:
@@ -567,7 +567,7 @@ df = df[
     (df["floorAreaRatio"] > 100)
     & (df["floorAreaRatio"] < 310)
     & (df["price"] > 10000000)
-    & (df["price"] < 160000000)
+    & (df["price"] < 80000000)
     & (df["min"] < 6)
     & (df["area"] > 100)
     & (df["area"] < 201)
@@ -659,10 +659,10 @@ extract_top_n(model, X_test, y_test, n=10)
 # -----------------------------------------------------------------------------
 #  推論: 「閾値で抽出」 & 「JSON出力」
 # -----------------------------------------------------------------------------
-today_data = load_json_by_date(base_path_today)
+today_data = load_json_by_date(base_path_today, date_str=None)
 today_data = flatten_data(today_data)
 
-THRESHOLD = 0.6
+THRESHOLD = 0.45
 filtered_today_data = []
 
 for land in today_data:
