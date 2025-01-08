@@ -662,7 +662,7 @@ extract_top_n(model, X_test, y_test, n=10)
 today_data = load_json_by_date(base_path_today, date_str=None)
 today_data = flatten_data(today_data)
 
-THRESHOLD = 0.45
+THRESHOLD = 0.4
 filtered_today_data = []
 
 for land in today_data:
